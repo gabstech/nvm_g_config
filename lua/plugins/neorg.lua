@@ -18,6 +18,10 @@ return {
         --Modulo para agregar todo lists
         ["core.keybinds"] = {},
         ["core.qol.todo_items"] = {},
+
+        --Modulo para trabajar con tablas
+        ["core.highlights"] = {},
+        ["core.integrations.treesitter"] = {},
       }
     }
   end,
